@@ -17,4 +17,6 @@ NOTE: You must use the new operator to construct and assemble nodes in the grid 
 NOTE: You can read about memory leak detection schemes here -> https://gc.gnu.org/onlinedocs/libstdc++/manual/debug.html  
 
 NOTE: Use valgrind to check for memory leaks with this command:  
-valgrind --leak-check=yes ./assignment0 
+valgrind --leak-check=yes ./assignment0  
+
+This program was developed inside a Linux Virtual Machine on Amazon Web Service running Ubuntu.
